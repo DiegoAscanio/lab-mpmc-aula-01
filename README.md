@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css"></link>
+
 # Laboratório de Microcontroladores e Microprocessadores
 ## Aula 01 — Introdução ao Simulador Wokwi e Construção de Circuitos com Entradas e Saídas Digitais no Arduino
 
