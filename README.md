@@ -5,7 +5,7 @@
 
 ### Objetivos
 
-- Conhecer o simulador [Wokwi](www.wokwi.com)
+- Conhecer o simulador [Wokwi](https://www.wokwi.com)
 - Construir um somador de 1 bit com portas lógicas no Wokwi (Com saídas com LEDs)
 - Construir um regitrador de 4 bits com flip-flops no Wokwi
 - Construir uma memória SRAM de 16 palavras de 4 bits no Wokwi
