@@ -5,8 +5,8 @@
 
 ### Objetivos
 
-- Conhecer o simulador Wokwi
-- Construir um somador de 1 bit com portas lógicas no Wokwi
+- Conhecer o simulador [Wokwi](www.wokwi.com)
+- Construir um somador de 1 bit com portas lógicas no Wokwi (Com saídas com LEDs)
 - Construir um regitrador de 4 bits com flip-flops no Wokwi
 - Construir uma memória SRAM de 16 palavras de 4 bits no Wokwi
 
@@ -20,7 +20,8 @@
 
 ### Entrega
 
-- Você deve entregar no AVA um arquivo .zip com os zips dos projetos realizados no Wokwi.
+- Você deve entregar no AVA um arquivo .zip com os zips dos projetos realizados no Wokwi e um arquivo txt com os nomes dos compomentes do grupo.
+- A atividade pode ser realizada por grupos de até 4 pessoas.
 
 ### Valor:
 
