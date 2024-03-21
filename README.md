@@ -20,7 +20,7 @@
 
 ### Entrega
 
-- Você deve entregar no AVA um arquivo .zip com os zips dos projetos realizados no Wokwi e um arquivo txt com os nomes dos compomentes do grupo.
+- Você deve entregar no AVA um arquivo um arquivo txt com os nomes dos compomentes do grupo e as urls dos projetos realizados no Wokwi.
 - A atividade pode ser realizada por grupos de até 4 pessoas.
 
 ### Valor:
